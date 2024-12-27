@@ -1,4 +1,4 @@
-# portflio
+# portfólio
 Meu Portfólio desenvolvido por mim.
 
 Estou animada em compartilhar meu primeiro projeto de portfólio, criado 100% por mim! 🎉
